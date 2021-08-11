@@ -16,7 +16,7 @@ console.log(num.toFixed(3)); // 15.131
 // Çözüm
 console.log(Math.round(num));
 
-// ** Aşağıya yuvarla
+// ** Aşağıya yuvarla"
 
 // Çözüm
 console.log(Math.floor(num));
