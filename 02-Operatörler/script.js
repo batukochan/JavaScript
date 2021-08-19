@@ -69,9 +69,6 @@ val = (e===f) || (a>b) || (e>d); // True
 val = !((e==f) && (a>b)); // false
 val = !((e===f) && (a>b) && (e>d)); // true
 
-
-
-
 // console.log(c)
 console.log(val)
 console.log(typeof val)
